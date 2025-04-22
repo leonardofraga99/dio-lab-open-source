@@ -10,4 +10,4 @@
 
 🎯 Objetivo: Vejo neste curso uma oportunidade para aprimorar minhas habilidades e crescer como profissional.
 
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=leonardo-fraga-4052b949)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=leonardo-fraga-4052b949)
